@@ -23,5 +23,6 @@ yarn-error.log*
 package-lock.json
 .docz
 .eslintcache
+.gitignore
 
 /react-shell-scripts
